@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there 👋 I'm 1999684</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&width=435&lines=欢迎访问;热爱编程;不断学习;持续成长" alt="动态打字效果" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&width=435&lines=欢迎访问;热爱编程；不断学习；持续成长" alt="动态打字效果" />
 
   <p>🧑‍💻 热爱编程 | 🌱 不断学习 | 🚀 持续成长</p>
 
