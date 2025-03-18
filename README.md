@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hi there 👋 I'm 1999684</h1>
 
-  <p>🧑‍💻 热爱编程 | 🌱 不断学习 | 🚀 持续成长</p>
+  <p>🌱 不断学习 | 🚀 持续成长</p>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1999684&show_icons=true&theme=radical&hide_border=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1999684&layout=compact&theme=radical&hide_border=true)
