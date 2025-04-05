@@ -15,15 +15,8 @@
 ---
 
 ## 🚀 我的项目
-
-### Web 开发
-| 项目                                          | 描述       | 技术栈                                                       |
-| --------------------------------------------- | ---------- | ------------------------------------------------------------ |
-| [try-web](https://github.com/1999684/try-web) | 前端尝试   | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) |
-
-### 其他项目
-
-。。。
+ - [try-web](https://github.com/1999684/try-web)
+ - [argon-plugins](https://github.com/1999684/argon-plugins)
 
 ---
 
