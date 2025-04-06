@@ -23,7 +23,7 @@
 ## 🛠️ 技术栈
 
 ### 图形化展示
-![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,git,github,idea,vscode,mysql)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,git,github,idea,vscode,mysql,javascript)
 
 ---
 
